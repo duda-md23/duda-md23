@@ -55,12 +55,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duda-md23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duda-md23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda-md23&layout=compact&theme=dracula"/>
-
-</div>
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duda-md23&layout=compact&theme=dracula)
 
 ---
 
