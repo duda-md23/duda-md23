@@ -55,9 +55,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duda-md23&theme=dracula)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duda-md23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duda-md23&layout=compact&theme=dracula" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duda-md23&hide=html&theme=dracula)
 
 ---
 
