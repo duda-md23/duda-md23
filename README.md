@@ -57,9 +57,8 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duda-md23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duda-md23&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duda-md23&layout=compact&theme=dracula&count_private=true&hide_proportional=true" />
 </p>
-
 
 ---
 
