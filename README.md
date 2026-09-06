@@ -18,7 +18,7 @@
 
 - 🎓 Graduanda em **Ciência de Dados e Cybersecurity** e Bacharel em **Administração e Negócios**.
 - 🛠️ Atuo como **Analista de Dados Pleno e Coordenadora de TI** na *Prefeitura do Paulista*, liderando projetos de Active Directory (AD), automações em python, suporte e dashboards de SLA.
-- 🎰 Possuo vasta experiência no setor de **iGaming (Análise de Risco Pleno)**, atuando na proteção de receita (GGR), gestão de Net Cash %, prevenção de fraudes/conluio e automação de processos via Python.
+- 🎰 Possuo vasta experiência no setor de **iGaming (Análise de Dados/Risco Pleno)**, atuando na proteção de receita (GGR), gestão de Net Cash %, prevenção de fraudes/conluio e automação de processos via Python.
 - ☁️ Certificada em **AWS re/Start**, **Azure Architecture (AZ-204)** e **Google IT Support**.
 - 💬 Idiomas: Inglês e Espanhol intermediário/avançado (B2).
 - 🎮 Jogo PubG | Crimson Desert (atualmente) | Fifa
